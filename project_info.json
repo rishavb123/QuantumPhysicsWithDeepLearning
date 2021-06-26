@@ -1,0 +1,14 @@
+{
+    "imageUrl": "https://media.istockphoto.com/videos/the-abstract-mathematical-formulas-moves-in-the-virtual-space-looped-video-id1009592224?s=640x640"
+    "links": [
+        {
+            "name": "Collab Notebook",
+            "url": "https://colab.research.google.com/github/rishavb123/QuantumPhysicsWithDeepLearning/blob/master/Solving_the_Schrodinger_Equation_with_Deep_Neural_Networks.ipynb"
+        },
+        {
+            "name": "Repo",
+            "url": "https://github.com/rishavb123/QuantumPhysicsWithDeepLearning"
+        }
+    ],
+    "ignoreSource": true
+}
