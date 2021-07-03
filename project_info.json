@@ -10,5 +10,6 @@
             "url": "https://github.com/rishavb123/QuantumPhysicsWithDeepLearning"
         }
     ],
-    "ignoreSource": true
+    "ignoreSource": true,
+    "priority": 10
 }
